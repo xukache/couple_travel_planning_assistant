@@ -1,0 +1,2 @@
+# couple_travel_planning_assistant
+一个用于给计划旅游，但不知道怎么安排的男友们的旅游计划助手
