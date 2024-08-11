@@ -19,3 +19,5 @@
     -  rag：结合rag，提高模型的回答准确率
 -  部署环境：模型需要在GPU环境下运行，具体配置后续更新
 -  交互方式：web界面
+## 架构图
+![侣伴出行架构图](https://github.com/user-attachments/assets/9c43c64d-e03c-42ab-b98b-68c7170d7de2)
